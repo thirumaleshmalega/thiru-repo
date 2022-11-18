@@ -5,6 +5,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Hello World!</title>
+	<title>This is My First Project</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
